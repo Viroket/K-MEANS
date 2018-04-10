@@ -1,0 +1,7 @@
+Number of best measure clusters K = 4 
+ Quality = 0.148483
+Number of best measure clusters 
+x = -0.501522, y = -0.505538
+x = -0.487657, y = 99.493314
+x = 99.519820, y = 99.513079
+x = 99.497484, y = -0.490182
