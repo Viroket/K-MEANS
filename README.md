@@ -1,0 +1,2 @@
+# K-MEANS
+MPI, parallel
